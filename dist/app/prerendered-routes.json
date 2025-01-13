@@ -1,6 +1,7 @@
 {
   "routes": [
     "/first",
+    "/fourth",
     "/second"
   ]
 }
